@@ -32,7 +32,7 @@ Built for developers, recruiters, and technology teams who want fast insights in
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Project Analyzer is a full-stack developer tool designed to analyze GitHub repositories and live websites automatically.
 
@@ -53,7 +53,7 @@ It provides:
 - Framework and dependency detection
 - Development tools identification
 
-## 🌐 Live Website Analysis
+## Live Website Analysis
 
 Analyzes a deployed website URL.
 
@@ -80,7 +80,7 @@ It provides:
 
 ---
 
-## 🌐 Live Website Analysis
+## Live Website Analysis
 
 | Feature | Description |
 |---|---|
